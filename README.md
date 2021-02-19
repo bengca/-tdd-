@@ -1,4 +1,4 @@
-![Image text](https://github.com/bengca/-tdd-/blob/main/img/20210219.png///)
+![Image text](https://github.com/bengca/-tdd-/blob/main/img/20210219.png1)
 
 # 一. **数据类型**
 
